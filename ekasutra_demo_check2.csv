@@ -1,0 +1,13 @@
+cpse_name,original_code,description,category,spec_diameter,spec_pressure_rating,spec_material_grade,spec_length,spec_surface_finish,spec_wall_thickness,spec_thread_size_pitch,spec_strength_grade,spec_material,spec_head_type,spec_bolt_length,spec_conductor_size,spec_voltage_rating,spec_core_count,spec_insulation_color_code
+NTPC,NTPC/VN/15001,CS Pipe 80mm NB Sch 40 ASTM A53,Pipes,80mm,900 psi,A53 Gr B,6m,Bare,4.0mm,,,,,,,,,
+PGCIL,PGCIL/TL/15002,Carbon Steel Pipe 80mm NB Schedule 40 A53,Pipes,80mm,900 psi,A53 Gr B,6m,Bare,4.0mm,,,,,,,,,
+HAL,HAL/BL/15003,SS304 Pipe 100mm NB Sch 40 ASTM A106,Pipes,100mm,1200 psi,304,6m,Bare,5.5mm,,,,,,,,,
+BPCL,BPCL/MU/15004,SS304 Pipe 150mm NB Sch 40 ASTM A106,Pipes,150mm,1200 psi,304,6m,Bare,5.5mm,,,,,,,,,
+CIL,CIL/SP/15005,Hex Bolt M12x50mm SS A2-70 ISO 4017,Fasteners,,,,,,,M12 x 1.75mm,A2-70,Stainless Steel,Hex Head,50mm,,,,
+NMDC,NMDC/KN/15006,SS Hex Bolt M12 x 50mm A2-70 ISO 4017,Fasteners,,,,,,,M12 x 1.75mm,A2-70,Stainless Steel,Hex Head,50mm,,,,
+ONGC,ONGC/MM/15007,Hex Bolt M20 x 60mm SS A2-70 ISO 4017,Fasteners,,,,,,,M20 x 2.5mm,A2-70,Stainless Steel,Hex Head,60mm,,,,
+IOCL,IOCL/REF/15008,Hex Bolt M20 x 100mm SS A2-70 ISO 4017,Fasteners,,,,,,,M20 x 2.5mm,A2-70,Stainless Steel,Hex Head,100mm,,,,
+SAIL,SAIL/BO/15009,Al Conductor Cable 35mm2 3 Core 1.1kV Armoured,Electrical_Cable,,,,,,,,,,,,,35mm2,1.1kV,3.0,Black
+RINL,RINL/VS/15010,HT Cable 1.1kV 35mm2 3C XLPE Aluminium,Electrical_Cable,,,,,,,,,,,,,35mm2,1.1kV,3.0,Black
+GAIL,GAIL/KO/15011,HT Cable 3.3kV 70mm2 3C XLPE Copper,Electrical_Cable,,,,,,,,,,,,,70mm2,3.3kV,3.0,Red
+NALCO,NALCO/AN/15012,HT Cable 6.6kV 70mm2 3C XLPE Copper,Electrical_Cable,,,,,,,,,,,,,70mm2,6.6kV,3.0,Red

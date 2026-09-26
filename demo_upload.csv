@@ -1,0 +1,13 @@
+cpse_name,original_code,description,category,spec_diameter,spec_pressure_rating,spec_material_grade,spec_length,spec_surface_finish,spec_wall_thickness,spec_thread_size_pitch,spec_strength_grade,spec_material,spec_head_type,spec_bolt_length,spec_conductor_size,spec_voltage_rating,spec_core_count,spec_insulation_color_code
+ONGC,ONGC/MM/09001,CS ERW Pipe NB 50mm Sch 40 as per IS 1239,Pipes,50mm,300 psi,IS 2062 Gr B,6m,Bare,3.4mm,,,,,,,,,
+IOCL,IOCL/REF/09002,Carbon Steel ERW Pipe 50mm NB Medium Class IS 1239,Pipes,50mm,300 psi,IS 2062 Gr B,6m,Bare,3.4mm,,,,,,,,,
+HPCL,HPCL/KR/09003,GI Seamless Pipe OD 80mm WT 5.5mm IS 3589,Pipes,80mm,600 psi,IS 1239,6m,Galvanized,5.5mm,,,,,,,,,
+NTPC,NTPC/VN/09004,SS316 Pipe 25mm x 2.77mm ASTM A106 HSN-7304,Pipes,25mm,1000 psi,316,3m,Bare,2.77mm,,,,,,,,,
+PGCIL,PGCIL/TL/09005,MS Pipe 65mm NB Heavy Class ASTM A53,Pipes,65mm,1500 psi,A106 Gr B,6m,Painted,5.5mm,,,,,,,,,
+SAIL,SAIL/BO/09006,Hex Bolt M12 x 80mm GI 4.6 IS 1364,Fasteners,,,,,,,M12 x 1.75mm,4.6,Galvanized Iron,Hex Head,80mm,,,,
+RINL,RINL/VS/09007,Bolt IS 1364 M12x80mm GI 4.6 Full Thread,Fasteners,,,,,,,M12 x 1.75mm,4.6,Galvanized Iron,Hex Head,80mm,,,,
+CIL,CIL/SP/09008,SS Hex Bolt M12 x 25mm A2-70 DIN 933,Fasteners,,,,,,,M12 x 1.75mm,A2-70,Stainless Steel,Hex Head,25mm,,,,
+NMDC,NMDC/KN/09009,Hex Bolt M12 x 80mm SS A2-70 ISO 4017,Fasteners,,,,,,,M12 x 1.75mm,A2-70,Stainless Steel,Hex Head,80mm,,,,
+BHEL,BHEL/HY/09010,Cu Conductor Cable 16mm2 3 Core 1100V Armoured IS 7098,Electrical_Cable,,,,,,,,,,,,,16mm2,1100V,3.0,R-Y-B
+NALCO,NALCO/AN/09011,PVC Insulated Copper Wire 16mm2 1100V IS 7098,Electrical_Cable,,,,,,,,,,,,,16mm2,1100V,3.0,R-Y-B
+GAIL,GAIL/KO/09012,Al Conductor Cable 95mm2 2C 3.3kV XLPE IS 1554,Electrical_Cable,,,,,,,,,,,,,95mm2,3.3kV,2.0,Red
