@@ -1,0 +1,101 @@
+cpse_name,original_code,description,category,spec_diameter,spec_pressure_rating,spec_material_grade,spec_length,spec_surface_finish,spec_thread_size_pitch,spec_strength_grade,spec_material,spec_head_type,spec_conductor_size,spec_voltage_rating,spec_core_count,spec_insulation_color_code
+CIL,CIL/SP/01056,Aluminium 16mm2 2C 11kV XLPE IEC 60502,Electrical_Cable,,,,,,,,,,16mm2,11kV,2,Red
+PGCIL,PGCIL/TL/01007,IS 1239 SS Pipe 50mm Sch 80 SMLS,Pipes,50mm,1000 psi,304,3m,Galvanized,,,,,,,,
+CIL,CIL/SP/01094,Hex Bolt M16x50mm LG SS A2-70 ASTM A193,Fasteners,,,,,,M16 x 2.0mm,A2-70,Stainless Steel,Hex Head,,,,
+RINL,RINL/VSP/01089,HT Cable 3.3kV 240mm2 3.5C XLPE Al,Electrical_Cable,,,,,,,,,,185mm2,3.3kV,3.5,Black
+NLCIL,NLC/PW/01037,CS Hex Bolt M12 x 80mm 4.6 DIN 933,Fasteners,,,,,,M12 x 1.75mm,4.6,Carbon Steel,Hex Head,,,,
+ONGC,MM-46009,SS316 ERW Pipe NB 150mm 160 as per DIN 2448,Pipes,150mm,1000 psi,316,3m,Painted,,,,,,,,
+SAIL,SAIL/MSP/01049,Cu 25mm2 1C 1100V XLPE IS 7098,Electrical_Cable,,,,,,,,,,25mm2,1100V,1,Red
+HAL,HAL/01000,Pipe MS 50mm x 7.1mm IS 1239 HSN-7304,Pipes,50mm,1500 psi,A106 Gr B,5.8m,Painted,,,,,,,,
+NLCIL,NLC/PW/01087,Cu Conductor Cable 240mm2 3.5 Core 650V Armoured,Electrical_Cable,,,,,,,,,,240mm2,650V,1,Black
+PGCIL,PGCIL/TL/01046,PVC Insulated Al Wire 2.5mm2 11kV IS 694,Electrical_Cable,,,,,,,,,,2.5mm2,11kV,3,Black
+ONGC,MM-46052,25mm2 Cu Cable 3.5 Core 3.3kV IS 7098,Electrical_Cable,,,,,,,,,,25mm2,3.3kV,3.5,R-Y-B
+CIL,CIL/SP/01006,SS ERW Pipe NB 50mm 80 as per IS 1239,Pipes,50mm,1000 psi,304,5.8m,Painted,,,,,,,,
+HPCL,HPCL/VZ/01014,SS316 Pipe 80mm NB Medium Class IS 3589,Pipes,80mm,1500 psi,316,5.8m,Bare,,,,,,,,
+GAIL,GAIL/PIPE/01097,PVC Insulated Copper Wire 1.5mm2 6.6kV IS 7098,Electrical_Cable,,,,,,,,,,1.5mm2,6.6kV,2,Red
+SAIL,SAIL/MSP/01095,Hex Bolt M20x40mm LG GI 4.6 ASTM A193,Fasteners,,,,,,M20 x 2.5mm,4.6,Galvanized Iron,Hex Head,,,,
+CIL,CIL/SP/01092,CS ERW Pipe NB 80mm 160 as per ASTM A106,Pipes,80mm,1500 psi,A53 Gr B,5.8m,Galvanized,,,,,,,,
+RINL,RINL/VSP/01018,Pipe SS316 150mm x 3.4mm DIN 2448 HSN-7304,Pipes,150mm,1500 psi,316,6m,Painted,,,,,,,,
+HPCL,HPCL/VZ/01082,120mm2 Al Cable 1 Core 11kV IS 694,Electrical_Cable,,,,,,,,,,120mm2,11kV,1,R-Y-B
+HPCL,HPCL/VZ/01073,Hex Hd Bolt M20 x 30mm MS 8.8,Fasteners,,,,,,M20 x 2.5mm,A2-70,Mild Steel,Hex Head,,,,
+NTPC,MAT-001011,Pipe SS316 80mm x 7.1mm ASTM A106 HSN-7304,Pipes,80mm,300 psi,316,3m,Galvanized,,,,,,,,
+NMDC,NMDC/ME/01081,Copper Conductor Cable 50mm2 3 Core 3.3kV Armoured,Electrical_Cable,,,,,,,,,,50mm2,11kV,3,Black
+BPCL,BPCL/KOCHI/01040,Al Conductor Cable 16mm2 3 Core 1100V Armoured,Electrical_Cable,,,,,,,,,,16mm2,1100V,3,Black
+SAIL,SAIL/MSP/01045,PVC Insulated Aluminium Wire 95mm2 3.3kV IS 694,Electrical_Cable,,,,,,,,,,95mm2,3.3kV,3.5,Red
+NTPC,MAT-001076,Hex Hd Bolt M16 x 100mm GI 4.6,Fasteners,,,,,,M16 x 2.0mm,4.6,Galvanized Iron,Hex Head,,,,
+ONGC,MM-46061,Pipe SS 40mm x 2.77mm IS 3589 HSN-7304,Pipes,40mm,300 psi,304,6m,Bare,,,,,,,,
+NMDC,NMDC/ME/01033,GI Hex Bolt M10 x 50mm 4.6 IS 1364,Fasteners,,,,,,M10 x 1.5mm,4.6,Galvanized Iron,Hex Head,,,,
+NTPC,MAT-001043,Aluminium 35mm2 4C 650V XLPE IS 1554,Electrical_Cable,,,,,,,,,,35mm2,650V,4,R-Y-B
+NALCO,NALCO/AL/01027,Hex Bolt M6x50mm LG MS 8.8 DIN 933,Fasteners,,,,,,M6 x 1.0mm,8.8,Mild Steel,Hex Head,,,,
+HAL,HAL/01050,10mm2 Copper Cable 1 Core 11kV IS 1554,Electrical_Cable,,,,,,,,,,10mm2,11kV,1,Black
+RINL,RINL/VSP/01048,25mm2 Cu Cable 1 Core 1100V IS 7098,Electrical_Cable,,,,,,,,,,25mm2,1100V,1,Red
+NLCIL,NLC/PW/01015,Pipe SS316 80mm x 5.5mm IS 3589 HSN-7304,Pipes,80mm,1500 psi,316,5.8m,Galvanized,,,,,,,,
+BHEL,BHE/DPW/01036,Hex Hd Bolt M12 x 80mm CS 4.6,Fasteners,,,,,,M12 x 1.75mm,4.6,Carbon Steel,Hex Head,,,,
+NMDC,NMDC/ME/01004,Pipe SS 65mm x 2.77mm IS 1239 HSN-7304,Pipes,65mm,1500 psi,304,5.8m,Galvanized,,,,,,,,
+IOCL,IOCL/REF/01093,Pipe SS316 40mm x 4.0mm ASTM A53 HSN-7304,Pipes,40mm,300 psi,316,6m,Galvanized,,,,,,,,
+NALCO,NALCO/AL/01069,ASTM A53 GI Pipe 25mm Sch 160 SMLS,Pipes,150mm,1000 psi,IS 1239,3m,Galvanized,,,,,,,,
+BPCL,BPCL/KOCHI/01070,Bolt ASTM A193 M8x30mm SS A2-70 Full Thread,Fasteners,,,,,,M8 x 1.25mm,A2-70,Stainless Steel,Hex Head,,,,
+BHEL,BHE/DPW/01084,PVC Insulated Copper Wire 2.5mm2 3.3kV IS 694,Electrical_Cable,,,,,,,,,,2.5mm2,3.3kV,3,R-Y-B
+RINL,RINL/VSP/01025,GI Hex Bolt M12 x 50mm 4.6 IS 1364,Fasteners,,,,,,M12 x 1.75mm,4.6,Galvanized Iron,Hex Head,,,,
+NLCIL,NLC/PW/01032,Hex Bolt M10x50mm LG GI 4.6 IS 1364,Fasteners,,,,,,M10 x 1.5mm,4.6,Galvanized Iron,Hex Head,,,,
+GAIL,GAIL/PIPE/01075,MS Hex Bolt M6 x 60mm 8.8 IS 1364,Fasteners,,,,,,M6 x 1.0mm,8.8,Stainless Steel 316,Hex Head,,,,
+ONGC,MM-46044,95mm2 Aluminium Cable 3.5 Core 3.3kV IS 694,Electrical_Cable,,,,,,,,,,95mm2,3.3kV,3.5,Black
+PGCIL,PGCIL/TL/01085,2.5mm2 Copper Cable 3 Core 3.3kV IS 694,Electrical_Cable,,,,,,,,,,2.5mm2,3.3kV,3.5,R-Y-B
+IOCL,IOCL/REF/01064,Pipe MS 100mm x 2.77mm ASTM A53 HSN-7304,Pipes,100mm,1500 psi,A106 Gr B,5.8m,Galvanized,,,,,,,,
+SAIL,SAIL/MSP/01051,HT Cable 11kV 10mm2 1C XLPE Copper,Electrical_Cable,,,,,,,,,,10mm2,11kV,1,R-Y-B
+CIL,CIL/SP/01096,Bolt IS 1364 M20x100mm SS316 A4-80 Full Thread,Fasteners,,,,,,M20 x 2.5mm,A4-80,Stainless Steel 316,Hex Head,,,,
+RINL,RINL/VSP/01055,PVC Insulated Cu Wire 95mm2 11kV IS 1554,Electrical_Cable,,,,,,,,,,95mm2,11kV,4,R-Y-B
+GAIL,GAIL/PIPE/01086,Cu 240mm2 3.5C 650V XLPE IS 1554,Electrical_Cable,,,,,,,,,,240mm2,650V,3.5,Black
+RINL,RINL/VSP/01008,SS316 Seamless Pipe OD 150mm WT 7.1mm DIN 2448,Pipes,150mm,1000 psi,316,6m,Painted,,,,,,,,
+NLCIL,NLC/PW/01067,CS Seamless Pipe OD 100mm WT 2.77mm DIN 2448,Pipes,100mm,300 psi,A53 Gr B,5.8m,Bare,,,,,,,,
+RINL,RINL/VSP/01041,HT Cable 1100V 16mm2 3C XLPE Al,Electrical_Cable,,,,,,,,,,16mm2,1100V,3,Red
+NLCIL,NLC/PW/01099,HT Cable 650V 1.5mm2 2C XLPE Copper,Electrical_Cable,,,,,,,,,,1.5mm2,650V,2,Black
+SAIL,SAIL/MSP/01054,Cu Conductor Cable 95mm2 4 Core 11kV Armoured,Electrical_Cable,,,,,,,,,,95mm2,11kV,4,Red
+NLCIL,NLC/PW/01057,HT Cable 11kV 16mm2 2C XLPE Aluminium,Electrical_Cable,,,,,,,,,,16mm2,11kV,2,Red
+PGCIL,PGCIL/TL/01031,MS Hex Bolt M12 x 50mm 8.8 IS 1364,Fasteners,,,,,,M12 x 1.75mm,8.8,Mild Steel,Hex Head,,,,
+HAL,HAL/01016,CS Seamless Pipe OD 65mm WT 4.0mm ASTM A53,Pipes,65mm,1000 psi,A53 Gr B,3m,Galvanized,,,,,,,,
+BHEL,BHE/DPW/01030,Hex Hd Bolt M12 x 50mm MS 8.8,Fasteners,,,,,,M12 x 1.75mm,8.8,Mild Steel,Hex Head,,,,
+NALCO,NALCO/AL/01038,SS Hex Bolt M12 x 60mm A2-70 ASTM A193,Fasteners,,,,,,M12 x 1.75mm,A2-70,Stainless Steel,Hex Head,,,,
+NMDC,NMDC/ME/01020,Hex Hd Bolt M20 x 60mm SS A2-70,Fasteners,,,,,,M20 x 2.5mm,A2-70,Stainless Steel,Hex Head,,,,
+NTPC,MAT-001022,Hex Hd Bolt M8 x 60mm GI 4.6,Fasteners,,,,,,M8 x 1.25mm,4.6,Galvanized Iron,Hex Head,,,,
+PGCIL,PGCIL/TL/01063,GI Seamless Pipe OD 50mm WT 3.4mm ASTM A53,Pipes,100mm,1500 psi,IS 1239,6m,Bare,,,,,,,,
+PGCIL,PGCIL/TL/01078,Hex Hd Bolt M10 x 40mm GI 4.6,Fasteners,,,,,,M10 x 1.5mm,4.6,Galvanized Iron,Hex Head,,,,
+CIL,CIL/SP/01062,ASTM A53 GI Pipe 50mm Sch 160 SMLS,Pipes,50mm,1500 psi,IS 1239,5.8m,Galvanized,,,,,,,,
+BHEL,BHE/DPW/01083,Al 120mm2 1C 11kV XLPE IS 694,Electrical_Cable,,,,,,,,,,120mm2,650V,1,Red
+PGCIL,PGCIL/TL/01060,SS Seamless Pipe OD 40mm WT 7.1mm IS 3589,Pipes,40mm,150 psi,304,3m,Bare,,,,,,,,
+GAIL,GAIL/PIPE/01029,Bolt ISO 4017 M16x50mm MS 8.8 Full Thread,Fasteners,,,,,,M16 x 2.0mm,8.8,Mild Steel,Hex Head,,,,
+CIL,CIL/SP/01023,Bolt ISO 4017 M8x60mm GI 4.6 Full Thread,Fasteners,,,,,,M8 x 1.25mm,4.6,Galvanized Iron,Hex Head,,,,
+SAIL,SAIL/MSP/01005,Pipe SS 65mm x 5.5mm IS 1239 HSN-7304,Pipes,65mm,1500 psi,304,5.8m,Bare,,,,,,,,
+PGCIL,PGCIL/TL/01074,Hex Bolt M6x60mm LG MS 8.8 IS 1364,Fasteners,,,,,,M6 x 1.0mm,8.8,Mild Steel,Hex Head,,,,
+ONGC,MM-46034,Hex Bolt M8x80mm LG MS 8.8 IS 1364,Fasteners,,,,,,M8 x 1.25mm,8.8,Mild Steel,Hex Head,,,,
+NALCO,NALCO/AL/01003,IS 1239 CS Pipe 15mm Sch 40 SMLS,Pipes,15mm,1500 psi,A53 Gr B,5.8m,Galvanized,,,,,,,,
+HAL,HAL/01013,SS316 Seamless Pipe OD 65mm WT 5.5mm ASTM A53,Pipes,65mm,300 psi,316,5.8m,Painted,,,,,,,,
+BPCL,BPCL/KOCHI/01017,CS ERW Pipe NB 65mm 40 as per ASTM A53,Pipes,65mm,1000 psi,A53 Gr B,6m,Bare,,,,,,,,
+HPCL,HPCL/VZ/01090,DIN 2448 CS Pipe 25mm Sch 80 SMLS,Pipes,25mm,600 psi,A53 Gr B,5.8m,Galvanized,,,,,,,,
+SAIL,SAIL/MSP/01066,CS Pipe 100mm NB Heavy Class DIN 2448,Pipes,100mm,150 psi,A53 Gr B,6m,Painted,,,,,,,,
+NTPC,MAT-001053,HT Cable 3.3kV 25mm2 3.5C XLPE Cu,Electrical_Cable,,,,,,,,,,25mm2,3.3kV,3.5,R-Y-B
+SAIL,SAIL/MSP/01072,Bolt DIN 933 M20x30mm MS 8.8 Full Thread,Fasteners,,,,,,M20 x 2.5mm,8.8,Mild Steel,Hex Head,,,,
+RINL,RINL/VSP/01091,Pipe CS 32mm x 4.0mm ASTM A53 HSN-7304,Pipes,32mm,1000 psi,A53 Gr B,5.8m,Bare,,,,,,,,
+NTPC,MAT-001039,Bolt ASTM A193 M12x60mm SS A2-70 Full Thread,Fasteners,,,,,,M12 x 1.75mm,A2-70,Stainless Steel,Hex Head,,,,
+HAL,HAL/01021,SS Hex Bolt M20 x 60mm A2-70 ASTM A193,Fasteners,,,,,,M20 x 2.5mm,A2-70,Stainless Steel,Hex Head,,,,
+HAL,HAL/01077,GI Hex Bolt M16 x 100mm 4.6 IS 1364,Fasteners,,,,,,M16 x 2.0mm,4.6,Stainless Steel,Hex Head,,,,
+NALCO,NALCO/AL/01098,Copper Conductor Cable 4mm2 4 Core 3.3kV Armoured,Electrical_Cable,,,,,,,,,,4mm2,3.3kV,4,Black
+HAL,HAL/01059,HT Cable 3.3kV 25mm2 3C XLPE Copper,Electrical_Cable,,,,,,,,,,25mm2,3.3kV,3,Red
+NLCIL,NLC/PW/01028,MS Hex Bolt M16 x 50mm 8.8 ISO 4017,Fasteners,,,,,,M16 x 2.0mm,8.8,Mild Steel,Hex Head,,,,
+NALCO,NALCO/AL/01042,35mm2 Aluminium Cable 4 Core 650V IS 1554,Electrical_Cable,,,,,,,,,,35mm2,650V,4,R-Y-B
+IOCL,IOCL/REF/01019,SS316 Pipe 150mm NB Heavy Class DIN 2448,Pipes,150mm,1500 psi,316,6m,Bare,,,,,,,,
+ONGC,MM-46012,Pipe SS316 65mm x 3.4mm ASTM A53 HSN-7304,Pipes,65mm,300 psi,316,5.8m,Painted,,,,,,,,
+IOCL,IOCL/REF/01001,IS 1239 MS Pipe 50mm Sch 160 SMLS,Pipes,50mm,1500 psi,A106 Gr B,3m,Galvanized,,,,,,,,
+HPCL,HPCL/VZ/01068,GI Seamless Pipe OD 25mm WT 4.0mm ASTM A53,Pipes,25mm,1000 psi,IS 1239,5.8m,Galvanized,,,,,,,,
+HPCL,HPCL/VZ/01024,Hex Hd Bolt M12 x 50mm GI 4.6,Fasteners,,,,,,M12 x 1.75mm,4.6,Galvanized Iron,Hex Head,,,,
+NTPC,MAT-001088,Al 240mm2 3.5C 3.3kV XLPE IS 1554,Electrical_Cable,,,,,,,,,,240mm2,3.3kV,3.5,Black
+ONGC,MM-46071,SS Hex Bolt M8 x 30mm A2-70 ASTM A193,Fasteners,,,,,,M24 x 3.0mm,A2-70,Stainless Steel,Hex Head,,,,
+NALCO,NALCO/AL/01010,ASTM A106 SS316 Pipe 80mm Sch 80 SMLS,Pipes,80mm,300 psi,316,3m,Painted,,,,,,,,
+GAIL,GAIL/PIPE/01047,Al 2.5mm2 3C 11kV XLPE IS 694,Electrical_Cable,,,,,,,,,,2.5mm2,11kV,3,Black
+IOCL,IOCL/REF/01080,Copper 50mm2 3C 3.3kV XLPE IS 694,Electrical_Cable,,,,,,,,,,50mm2,3.3kV,3,Red
+NLCIL,NLC/PW/01079,Hex Hd Bolt M10 x 40mm GI 4.6,Fasteners,,,,,,M10 x 1.5mm,4.6,Stainless Steel,Hex Head,,,,
+NLCIL,NLC/PW/01035,MS Hex Bolt M8 x 80mm 8.8 IS 1364,Fasteners,,,,,,M8 x 1.25mm,8.8,Mild Steel,Hex Head,,,,
+ONGC,MM-46065,MS Seamless Pipe OD 100mm WT 4.0mm ASTM A53,Pipes,20mm,1500 psi,A106 Gr B,3m,Painted,,,,,,,,
+NMDC,NMDC/ME/01058,Copper Conductor Cable 25mm2 3 Core 3.3kV Armoured,Electrical_Cable,,,,,,,,,,25mm2,3.3kV,3,R-Y-B
+ONGC,MM-46026,Bolt DIN 933 M6x50mm MS 8.8 Full Thread,Fasteners,,,,,,M6 x 1.0mm,8.8,Mild Steel,Hex Head,,,,
+GAIL,GAIL/PIPE/01002,CS ERW Pipe NB 15mm 40 as per IS 1239,Pipes,15mm,1500 psi,A53 Gr B,3m,Galvanized,,,,,,,,

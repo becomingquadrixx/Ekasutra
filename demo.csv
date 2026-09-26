@@ -1,0 +1,9 @@
+cpse_name,original_code,description,spec_diameter,spec_pressure_rating,spec_material_grade,spec_thread_size_pitch,spec_strength_grade,spec_material,spec_conductor_size,spec_voltage_rating,spec_core_count
+ONGC,MAT-10231,"Seamless MS pipe 100mm NB, 150psi, grade A53 Gr B, 6m length",100mm,150psi,A53 Gr B,,,,,,
+NTPC,MAT-77821,"M.S. pipe DN 100, 150psi, A53 Gr B, 6m",100mm,150psi,A53 Gr B,,,,,,
+IOCL,P-404,"MS pipe 100mm NB, 150psi, grade A53 Gr B, 6m length",100mm,150psi,A53 Gr B,,,,,,
+GAIL,P-505,"MS pipe 150mm NB, 150psi, grade A53 Gr B, 6m length",150mm,150psi,A53 Gr B,,,,,,
+IOCL,F-001,"Hex bolt M10x1.5mmx60mm, SS 304, grade 8.8, DIN 933",,,,M10 1.5mm,8.8,SS 304,,,
+GAIL,F-002,"SS 304 hex head bolt M10 pitch 1.5mm, strength 8.8, 60mm lg",,,,M10 1.5mm,8.8,SS 304,,,
+CIL,C-111,"PVC insulated copper cable 4C x 6mm2, 1.1kV, 1km drum",,,,,,,6mm2,1.1kV,4C
+BPCL,C-112,"1100V grade copper cable 4C x 6mm2, 1000m reel",,,,,,,6mm2,1100V,4C

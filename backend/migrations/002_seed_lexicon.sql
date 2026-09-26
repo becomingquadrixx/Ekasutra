@@ -1,0 +1,16 @@
+INSERT INTO lexicon_entries (raw_term, canonical_term, status) VALUES
+    ('MS', 'Mild Steel', 'active'),
+    ('M.S.', 'Mild Steel', 'active'),
+    ('Mild St', 'Mild Steel', 'active'),
+    ('SS', 'Stainless Steel', 'active'),
+    ('GI', 'Galvanized Iron', 'active'),
+    ('PVC', 'Polyvinyl Chloride', 'active'),
+    ('HDPE', 'High-Density Polyethylene', 'active'),
+    ('Dia', 'Diameter', 'active'),
+    ('galv', 'Galvanized', 'active'),
+    ('thk', 'Thickness', 'active'),
+    ('hex', 'Hexagonal', 'active'),
+    ('CS', 'Carbon Steel', 'active'),
+    ('Al', 'Aluminum', 'active'),
+    ('Cu', 'Copper', 'active'),
+    ('sch', 'Schedule', 'active');
