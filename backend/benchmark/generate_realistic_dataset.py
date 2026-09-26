@@ -1,13 +1,6 @@
 """
-Generate a realistic CPSE-style benchmark dataset for EKASUTRA.
-
-Uses real Indian CPSE names and authentic material coding/description styles:
-  - ONGC, NTPC, BHEL, IOCL, GAIL, SAIL, CIL, BPCL, HPCL, PGCIL, NLCIL, NMDC, RINL, NALCO, HAL
-  - Realistic spec columns per category with varied shorthand, units, and standards.
-
-Produces:
-  realistic_data.csv      - ~100 material rows
-  realistic_ground_truth.csv - pairs labelled should_match=true/false
+Generates synthetic CPSE-style data for benchmarking.
+Outputs CSVs for the pipeline.
 """
 
 import csv
