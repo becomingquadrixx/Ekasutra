@@ -75,6 +75,7 @@ def get_matches(status: str = "pending_review"):
             JOIN cpse_materials b ON m.material_b_id = b.id
             WHERE m.status = %s
             ORDER BY m.id DESC
+            LIMIT 100
         """
         cursor.execute(query, (status,))
         results = []

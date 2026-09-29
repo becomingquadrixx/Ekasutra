@@ -74,6 +74,10 @@ def classify_category(desc: str) -> str:
         return "Fasteners"
     elif any(kw in desc_lower for kw in ["cable", "wire", "conductor", "xlpe", "mm2", "kv", "volt", "1100v", "650v"]):
         return "Electrical_Cable"
+    elif any(kw in desc_lower for kw in ["valve", "gate valve", "ball valve", "globe valve", "check valve", "butterfly valve", "needle valve", "control valve"]):
+        return "Valves"
+    elif any(kw in desc_lower for kw in ["gauge", "pressure gauge", "instrument", "transmitter", "flow meter", "thermocouple", "rtd", "level indicator"]):
+        return "Instruments"
     return "Unknown"
 
 def parse_dimension(val_str: str) -> float:
