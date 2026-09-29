@@ -1,3 +1,7 @@
+/**
+ * EKASUTRA Frontend UI
+ * Built by Team QuadriX
+ */
 import React, { useState, useEffect, useRef } from 'react';
 import { 
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
